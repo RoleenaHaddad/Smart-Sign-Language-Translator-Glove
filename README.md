@@ -11,3 +11,6 @@ The proposed solution features the following:
 
 
 Overall, the glove is comfortable, discreet, and actually practical for daily use: in class, on the bus, at the mall, anywhere. It gives users a natural and independent way to communicate with non-signers without needing to pull out a phone or ask someone for help. Everything happens on-device, so it’s fast, private, and works even offline.
+
+### 📐 System Hardware Architecture
+<img width="779" height="476" alt="Screenshot 2026-01-08 093531" src="https://github.com/user-attachments/assets/a02f3c8c-bd0a-4689-96c6-04a969d98aa8" />
